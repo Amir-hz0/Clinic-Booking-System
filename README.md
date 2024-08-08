@@ -16,8 +16,6 @@ This is a Django-based web application designed to manage bookings for a clinic 
 - SQLite (as a database)
 - HTML/CSS/JAVASCRIPT (for templates)
 
-## Installation
-
 ### Prerequisites
 
 - Python 3.x installed on your machine
@@ -59,7 +57,9 @@ This is a Django-based web application designed to manage bookings for a clinic 
 6. **Access the application:**
 
    Open your browser and go to `http://127.0.0.1:8000/`
-
+7. **For Testing The App:**
+   
+   Open your browser and go to `https://clinic-project.liara.run/`
 ## Usage
 
 - Users can sign up, log in, and book appointments.
