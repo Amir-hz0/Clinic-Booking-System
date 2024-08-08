@@ -14,7 +14,7 @@ This is a Django-based web application designed to manage bookings for a clinic 
 - Python
 - Django
 - SQLite (as a database)
-- HTML/CSS (for templates)
+- HTML/CSS/JAVASCRIPT (for templates)
 
 ## Installation
 
