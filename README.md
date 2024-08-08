@@ -1,9 +1,3 @@
-To push this project to GitHub, you should create a `README.md` file that provides a clear overview of the project, its purpose, installation instructions, and how to run it. Additionally, there are a few other files you should consider adding to the repository for completeness.
-
-### 1. **README.md**
-
-Here's a template for your `README.md` file:
-
 ```markdown
 # Clinic Booking System
 
