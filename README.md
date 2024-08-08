@@ -1,4 +1,3 @@
-```markdown
 # Clinic Booking System
 
 This is a Django-based web application designed to manage bookings for a clinic or similar service provider. The system allows users to register, log in, and schedule appointments.
@@ -73,4 +72,3 @@ Feel free to submit issues or pull requests for improvements.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
